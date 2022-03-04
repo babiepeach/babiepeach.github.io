@@ -5,7 +5,7 @@ div.items {
 	
 	border-radius: 15px;
 	background: #ffe3f1;
-	width: 250px;
+	width: 22%;
 	flex-direction: column;
 	min-height: 150px;
 
@@ -23,7 +23,7 @@ div.top {
 	
 	border-radius: 15px;
 	background: #ffe3f1;
-	width: 290px;
+	width: 24%;
 	flex-direction: column;
 	min-height: 150px;
 
@@ -41,7 +41,7 @@ div.tool {
 	
 	border-radius: 15px;
 	background: #ffe3f1;
-	width: 290px;
+	width: 24&;
 	flex-direction: column;
 	min-height: 150px;
 
@@ -59,7 +59,7 @@ div.abyss {
 	
 	border-radius: 15px;
 	background: #ffe3f1;
-	width: 250px;
+	width: 22%;
 	flex-direction: column;
 	min-height: 150px;
 
