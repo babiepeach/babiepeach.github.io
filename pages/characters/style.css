@@ -1,0 +1,185 @@
+
+h1 {
+	
+	text-align: center;
+	color: #bf6591;
+	
+}
+
+h2 {
+	
+	text-align: center;
+	color: #d179a4;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	gap: 5px;
+	
+}
+
+h3 {
+	
+	text-align: center;
+	color: #d179a4;
+	
+}
+
+h4 {
+
+	text-align: center;
+	color: #d179a4;
+}
+
+h5 {
+
+	text-align: center;
+	color: #d179a4;
+}
+
+p {
+	
+	text-align:center;
+	color:#d681aa;
+	font-size: 103%;
+	
+}
+
+a:link {
+	
+	text-decoration: none;
+	color:#d681aa;
+}
+
+a:visited {
+	
+	text-decoration: none;
+	color:#d179a4;
+}
+
+a:hover {
+
+	text-decoration: none;
+	color:#a66283;
+	
+}
+
+a:active {
+
+	text-decoration: none;
+	color:#d179a4;
+	
+}
+
+td {
+
+	color: #d681aa;
+	border-radius:10px;
+
+}
+
+th {
+
+	color: #d681aa;
+	border-radius:10px;
+	background-color: #fff;
+	
+}
+
+div.glance {
+	
+	border-radius: 15px;
+	background: #ffe3f1;
+	width: 96%;
+	flex-direction: column;
+	min-height: 150px;
+
+	padding: 5px 5px 10px 10px;
+
+	margin: 20px auto;
+	
+	text-align: center;
+
+	justify-content: center;
+	align-items: center;
+	
+}
+
+div.title {
+	
+	border-radius: 15px;
+	
+	background: #ffe3f1;
+	width: 20%;
+	display: flex;
+	flex-direction: row;
+	min-width: 200px;
+	justify-content: center;
+	align-items: center;
+	gap: 25px;
+	
+	padding: 10px;
+	
+	margin: 0 auto;
+	
+	text-align: center;
+	
+}
+
+div.titlea {
+	
+	border-radius: 15px;
+	
+	background: #ffe3f1;
+	width: 27%;
+	display: flex;
+	flex-direction: row;
+	min-width: 200px;
+	justify-content: center;
+	align-items: center;
+	gap: 25px;
+	
+	padding: 10px;
+	
+	margin: 0 auto;
+	
+	text-align: center;
+	
+}
+
+
+div.ascend {
+	
+	border-radius: 15px;
+	background: #ffe3f1;
+	width: 40%;
+	flex-direction: column;
+	min-height: 150px;
+
+	padding: 5px 5px 10px 10px;
+
+	margin: 20px auto;
+	
+	text-align: center;
+	
+}
+
+div.bossRush {
+	
+	border-radius: 15px;
+	background: #ffe3f1;
+	width: 96%;
+	flex-direction: column;
+	min-height: 150px;
+
+	padding: 5px 5px 10px 10px;
+
+	margin: 20px auto;
+	
+	text-align: center;
+	
+}
+
+.center {
+	margin-left: auto;
+	margin-right: auto;
+  }
