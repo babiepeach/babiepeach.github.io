@@ -1,0 +1,190 @@
+
+div.items {
+	
+	float:left;
+	
+	border-radius: 15px;
+	background: #ffe3f1;
+	width: 250px;
+	flex-direction: column;
+	min-height: 150px;
+
+	padding: 5px 5px 15px 15px;
+  
+	margin: 20px 20px 20px 20px;
+	
+	text-align:center;
+	
+}
+
+div.top {
+	
+	float:left;
+	
+	border-radius: 15px;
+	background: #ffe3f1;
+	width: 290px;
+	flex-direction: column;
+	min-height: 150px;
+
+	padding: 5px 5px 15px 15px;
+  
+	margin: 20px 20px 20px 20px;
+	
+	text-align:center;
+	
+}
+
+div.tool {
+	
+	float:right;
+	
+	border-radius: 15px;
+	background: #ffe3f1;
+	width: 290px;
+	flex-direction: column;
+	min-height: 150px;
+
+	padding: 5px 5px 15px 15px;
+  
+	margin: 20px 20px 20px 20px;
+	
+	text-align:center;
+	
+}
+
+div.abyss {
+	
+	float:right;
+	
+	border-radius: 15px;
+	background: #ffe3f1;
+	width: 250px;
+	flex-direction: column;
+	min-height: 150px;
+
+	padding: 5px 5px 15px 15px;
+  
+	margin: 20px 20px 20px 20px;
+	
+	text-align:center;
+	
+}
+
+
+div.chrview {
+	
+    clear: both;
+  
+    border-radius: 15px;
+	background: #ffe3f1;
+	width: 750px;
+	flex-direction: column;
+	min-height: 150px;
+
+	padding: 5px 5px 15px 15px;
+  
+	margin: auto;
+	
+	text-align:center;
+	
+}
+
+div.talents {
+	
+    float: left;
+  
+    border-radius: 15px;
+	background: #ffe3f1;
+	width: 45%;
+	flex-direction: column;
+	min-height: 150px;
+
+	padding: 5px 5px 15px 15px;
+  
+	margin: 20px 20px auto;
+	
+	text-align: center;
+	
+}
+
+div.weapMat {
+	
+    float: right;
+  
+    border-radius: 15px;
+	background: #ffe3f1;
+	width: 45%;
+	flex-direction: column;
+	min-height: 150px;
+
+	padding: 5px 5px 15px 15px;
+  
+	margin: 20px 20px auto;
+	
+	text-align: center;
+	
+}
+
+
+
+h1 {
+	
+	text-align:center;
+	color: #bf6591;
+	
+}
+
+h2 {
+	
+	text-align:center;
+	color: #d179a4;
+	
+}
+
+h3 {
+	
+	text-align:center;
+	color: #d179a4;
+	
+}
+
+h4 {
+	
+	text-align:center;
+	color: #d179a4;
+	
+}
+
+p {
+	
+	text-align:center;
+	color:#d681aa;
+	
+}
+
+a:link {
+	
+	text-decoration: none;
+	color:#d681aa;
+}
+
+a:visited {
+	
+	text-decoration: none;
+	color:#d179a4;
+}
+
+a:hover {
+
+	text-decoration: none;
+	color:#a66283;
+	
+}
+
+a:active {
+
+	text-decoration: none;
+	color:#d179a4;
+	
+}
