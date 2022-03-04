@@ -10,7 +10,7 @@ Android/IOS
 
 WEBSITE:
 
-babiepeach.github.io
+https://babiepeach.github.io
 
 
 
