@@ -10,6 +10,18 @@
 	<title>Home | Character Profiler</title>
 	<link rel="icon" type="image/x-icon" href="images/paimonico.png">
 	<link rel="stylesheet" href="style.css">
+
+	<style type="text/css">
+		#content-desktop {display: block;}
+		#content-mobile {display: none;}
+
+		@media screen and (max-width: 768px) {
+
+		#content-desktop {display: none;}
+		#content-mobile {display: block;}
+		}
+  	</style>
+
 </head>
 
 <body>
@@ -34,6 +46,9 @@
 	</div>
 	
 	<div class="top">
+
+		<div id="content-desktop"> <h2 title="As of Genshin Impact version 2.4.">Top Characters</h2> </div>
+		<div id="content-mobile"> <h2>Top Chrs</h2> </div> 
 	
 		<h2 title="As of Genshin Impact version 2.4.">Top Characters</h2>
 		<p><a href="pages/characters/kamisatoayaka.html">Kamisato Ayaka</a></p>
