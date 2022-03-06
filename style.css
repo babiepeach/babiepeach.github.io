@@ -189,6 +189,21 @@ a:active {
 	
 }
 
+td {
+
+	color: #d681aa;
+	border-radius:10px;
+
+}
+
+th {
+
+	color: #d681aa;
+	border-radius:10px;
+	background-color: #fff;
+	
+}
+
 #content-desktop {display: block;}
 #content-mobile {display: none;}
 
@@ -196,4 +211,9 @@ a:active {
 
 	#content-desktop {display: none;}
 	#content-mobile {display: block;}
+}
+
+.center {
+	margin-left: auto;
+	margin-right: auto;
 }
