@@ -148,10 +148,12 @@ div.titlea {
 
 
 div.ascend {
+
+	float: left;
 	
 	border-radius: 15px;
 	background: #ffe3f1;
-	width: 47%;
+	width: 46%;
 	flex-direction: column;
 	min-height: 150px;
 
@@ -163,7 +165,9 @@ div.ascend {
 	
 }
 
-div.ascenda {
+div.talent {
+
+	float: right;
 	
 	border-radius: 15px;
 	background: #ffe3f1;
@@ -179,7 +183,9 @@ div.ascenda {
 	
 }
 
-div.ttt {
+div.talents {
+
+	float: left;
 	
 	border-radius: 15px;
 	background: #ffe3f1;
