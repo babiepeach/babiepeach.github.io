@@ -126,6 +126,38 @@ div.weapMat {
 	
 }
 
+div.talentsMOBILE {
+  
+    border-radius: 15px;
+	background: #ffe3f1;
+	width: 90%;
+	flex-direction: column;
+	min-height: 150px;
+
+	padding: 5px 5px 5px 5px;
+  
+	margin: 20px 20px auto;
+	
+	text-align: center;
+	
+}
+
+div.weapMatMOBILE {
+  
+    border-radius: 15px;
+	background: #ffe3f1;
+	width: 90%;
+	flex-direction: column;
+	min-height: 150px;
+
+	padding: 5px 5px 5px 5px;
+  
+	margin: 20px auto;
+	
+	text-align: center;
+	
+}
+
 
 
 h1 {
