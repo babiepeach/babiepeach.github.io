@@ -70,6 +70,21 @@ a:active {
 	
 }
 
+td {
+
+	color: #d681aa;
+	border-radius:10px;
+
+}
+
+th {
+
+	color: #d681aa;
+	border-radius:10px;
+	background-color: #fff;
+	
+}
+
 div.glance {
 	
 	border-radius: 15px;
@@ -92,6 +107,27 @@ div.title {
 	
 	background: #ffe3f1;
 	width: 20%;
+	display: flex;
+	flex-direction: row;
+	min-width: 200px;
+	justify-content: center;
+	align-items: center;
+	gap: 25px;
+	
+	padding: 10px;
+	
+	margin: 0 auto;
+	
+	text-align: center;
+	
+}
+
+div.titlea {
+	
+	border-radius: 15px;
+	
+	background: #ffe3f1;
+	width: 32%;
 	display: flex;
 	flex-direction: row;
 	min-width: 200px;
@@ -138,4 +174,9 @@ div.num {
 	text-align: center;
 	justify-content: center;
 	align-items: center;
+}
+
+.center {
+	margin-left: auto;
+	margin-right: auto;
 }
