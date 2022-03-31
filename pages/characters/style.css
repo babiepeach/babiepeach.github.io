@@ -156,7 +156,7 @@ div.ascend {
 	flex-direction: column;
 	min-height: 150px;
 
-	padding: 5px 5px 10px 10px;
+	padding: 5px 5px 10px 5px;
 
 	margin: 15px;
 	
@@ -174,7 +174,7 @@ div.talent {
 	flex-direction: column;
 	min-height: 150px;
 
-	padding: 5px 5px 10px 10px;
+	padding: 5px 5px 10px 5px;
 
 	margin: 15px;
 	
@@ -192,7 +192,7 @@ div.talents {
 	flex-direction: column;
 	min-height: 150px;
 
-	padding: 5px 5px 10px 10px;
+	padding: 5px 5px 10px 5px;
 
 	margin: 15px;
 	
@@ -208,7 +208,7 @@ div.bossRush {
 	flex-direction: column;
 	min-height: 150px;
 
-	padding: 5px 5px 10px 10px;
+	padding: 5px 5px 10px 5px;
 
 	margin: 20px auto;
 	
