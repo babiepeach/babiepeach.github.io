@@ -85,7 +85,7 @@ th {
 	
 }
 
-div.glance {
+.glance {
 	
 	border-radius: 15px;
 	background: #ffe3f1;
@@ -104,7 +104,7 @@ div.glance {
 	
 }
 
-div.title {
+.title {
 	
 	border-radius: 15px;
 	
@@ -125,7 +125,7 @@ div.title {
 	
 }
 
-div.titlea {
+.titlea {
 	
 	border-radius: 15px;
 	
@@ -146,7 +146,7 @@ div.titlea {
 	
 }
 
-div.ascend {
+.ascend {
 
 	float: left;
 	
@@ -164,7 +164,7 @@ div.ascend {
 	
 }
 
-div.talent {
+.talent {
 
 	float: right;
 	
@@ -182,7 +182,7 @@ div.talent {
 	
 }
 
-div.talents {
+.talents {
 	
 	float: left;
 	
@@ -200,7 +200,7 @@ div.talents {
 	
 }
 
-div.bossRush {
+.bossRush {
 	
 	border-radius: 15px;
 	background: #ffe3f1;
@@ -220,3 +220,14 @@ div.bossRush {
 	margin-left: auto;
 	margin-right: auto;
 }
+
+.warning {
+	float: left;
+	width: 45%;
+	flex-direction: column;
+	min-height: 20px;
+	background-color: #ffffcc;
+	border-left: 6px solid #ffeb3b;
+	padding-left: 4px;
+	margin: 5px auto;
+  }
