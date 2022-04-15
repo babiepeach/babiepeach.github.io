@@ -17,4 +17,4 @@ https://github.com/babiepeach/babiepeach.github.io
 
 ! If a webpage does not change when an update is pushed, reload the page a few times. If it still doesn't work, come back in a few minutes.
 
-**I do not own any images or content on this site. All impact from MiHoYo, Genshin Impact and HoYoVerse.**
+**I do not own any images or content on this site. All images are from MiHoYo, Genshin Impact and HoYoVerse.**
