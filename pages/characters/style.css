@@ -238,14 +238,3 @@ th {
 	margin-left: auto;
 	margin-right: auto;
 }
-
-.warning {
-	float: left;
-	width: 45%;
-	flex-direction: column;
-	min-height: 20px;
-	background-color: #ffffcc;
-	border-left: 6px solid #ffeb3b;
-	padding-left: 4px;
-	margin: 5px auto;
-  }
