@@ -164,6 +164,24 @@ th {
 	
 }
 
+.talentsb {
+	
+	float: right;
+	
+	border-radius: 15px;
+	background: #ffe3f1;
+	width: 45%;
+	flex-direction: column;
+	min-height: 150px;
+
+	padding: 5px 5px 10px 5px;
+
+	margin: 5px;
+	
+	text-align: center;
+	
+}
+
 .talent {
 
 	float: right;
@@ -185,24 +203,6 @@ th {
 .talents {
 	
 	float: left;
-	
-	border-radius: 15px;
-	background: #ffe3f1;
-	width: 45%;
-	flex-direction: column;
-	min-height: 150px;
-
-	padding: 5px 5px 10px 5px;
-
-	margin: 5px;
-	
-	text-align: center;
-	
-}
-
-.talentsb {
-	
-	float: right;
 	
 	border-radius: 15px;
 	background: #ffe3f1;
